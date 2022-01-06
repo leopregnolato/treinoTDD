@@ -1,0 +1,15 @@
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.deps.json
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.dll
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\bin\Debug\net5.0\ref\PaymentContext.Domain.dll
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
+C:\Users\LOPL\OneDrive - GFT Technologies SE\Documents\Workspace\paymentcontext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete
