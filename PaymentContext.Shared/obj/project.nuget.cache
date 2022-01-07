@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XIh3bDsksrHNAF29VZDFze+gTwIvMvqeqAYraUmfnHtRXBuOUJzeBdKXexhkDqa1oxmOlZltGtA4gPOuV4r02Q==",
+  "dgSpecHash": "SjifnN6J9xl4wHiIAr22xHDAsyXhhq6TTjgp+9iy/z08ieVpyFl6/TVMReB2aja4aDCvSxW5gucFypwumZQG5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\LOPL\\OneDrive - GFT Technologies SE\\Documents\\Workspace\\paymentcontext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\LOPL\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
